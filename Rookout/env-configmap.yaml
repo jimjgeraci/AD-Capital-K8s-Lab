@@ -19,10 +19,7 @@ data:
   ROOKOUT_COMMIT: "True"
   ROOKOUT_TOKEN: "cb31954f864c30c90cb47c9441f56486ed0ee6465aa27a801589976d09a51eeb"  
   RETRY: 10s
-  TIMEOUT: 300s
-  
-
-
+  TIMEOUT: 300s  
 kind: ConfigMap
 metadata:
   creationTimestamp: null
